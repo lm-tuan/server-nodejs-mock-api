@@ -9,8 +9,6 @@ class Username {
     }
 }
 
-
-
 class AuthUser{
     constructor(users = usersList ){
         this.users = users;
